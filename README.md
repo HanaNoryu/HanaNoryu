@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=26&color=FCC2D7&center=true&vCenter=true&lines=Hi+I'm+Noryu;%E5%B8%8C%E6%9C%9B%E4%BB%8A%E5%A4%A9%E7%9A%84%E4%BD%A0%E8%A6%81%E5%BC%80%E5%BF%83%E5%91%A6%EF%BC%81"/>
 </div>
-------
 
 <img align="right" width="400" src="https://github.com/HanaNoryu/HanaNoryu/blob/master/pic.jpg">
 
@@ -34,10 +33,14 @@ I like all new and interesting knowledge and things, and will try to implement s
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
+
 **Interested**
 
 <p align="left">
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
 </p>
+
+---
+
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=HanaNoryu&show_icons=true&icon_color=f783ac&title_color=faa2c1&locale=cn"/>
