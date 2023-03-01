@@ -43,4 +43,4 @@ I like all new and interesting knowledge and things, and will try to implement s
 
 ---
 
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=HanaNoryu&show_icons=true&icon_color=f783ac&title_color=faa2c1&locale=cn"/>
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=HanaNoryu&count_private=true&show_icons=true&icon_color=f783ac&title_color=faa2c1&locale=cn"/>
