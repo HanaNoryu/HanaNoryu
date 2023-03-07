@@ -9,7 +9,7 @@ I like all new and interesting knowledge and things, and will try to implement s
 
 
 
-- ❤️I like [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>),If you are also interested in this and would like to talk to me, I would be happy to discuss these topics with you.
+- ❤️I like [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>), If you are also interested in this and would like to talk to me, I would be happy to discuss these topics with you.
 - ⚒My tentative goal is to become a good front-end engineer and be able to make something that satisfies me.
 - 💬You can ask me anything by sending me emails, or private message me.
 
